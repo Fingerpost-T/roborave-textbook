@@ -11,4 +11,6 @@
 
 ## 開発手順
 
+[markdown記法](https://qiita.com/tbpgr/items/989c6badefff69377da7)に目を通す。
 
+`TJ3B\install_method.md`を編集する。
