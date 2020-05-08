@@ -12,7 +12,7 @@
 11インストールをクリック
 12完了をクリック
 
-＃りんく
+##　リンク
 
 ［CStyle‐TJ3Bダウンロード方法］
 （http://www.daisendenshi.com/download/ ）：ソフトをダウンロードできるページ
