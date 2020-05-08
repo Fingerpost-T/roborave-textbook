@@ -13,4 +13,4 @@
 12完了をクリック
 ＃リンク
 ［CStyle‐TJ3Bダウンロード方法］
-（http://www.daisendenshi.com/download/）：TJ3B ソフトをダウンロードするページ
+（http://www.daisendenshi.com/download/ ）：ソフトをダウンロードできるページ
