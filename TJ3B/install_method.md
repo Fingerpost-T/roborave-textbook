@@ -10,7 +10,8 @@
 [ダウンロードされたTJ3B](https://media.discordapp.net/attachments/695986016909262873/708656447923159040/unknown.png)
 - PCのドキュメントを開いて、CStyleTj3B_V190706をダブルクリック
 - その中のCStyleTJ3Bをダブルクリックし、C-Style for TJ3B V190706.msiをダブルクリック
-- 次へをクリックし、次へをクリックし、もう一回次へをクリック
+[インストールの画像](https://media.discordapp.net/attachments/695986016909262873/708659854528479262/unknown.png?width=659&height=586)
+-次へをクリックし、次へをクリックし、もう一回次へをクリック
 - インストールをクリック
 - 完了をクリック
 
