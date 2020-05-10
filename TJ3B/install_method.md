@@ -3,19 +3,19 @@
 - ブラウザを開き、[このリンク](http://www.daisendenshi.com/download/)を開く
 -下のほうまで見ていって、「ロボットキット」という見出しの中に、『プログラミングソフトC-Style Ver.190706』というのがあるので、そこをクリック
 
-![TJ3Bのダウンロードの場所](images\download_website.png)
+![TJ3Bのダウンロードの場所](image/download_website.png)
 
 - 下にダウンロードの表示が出るので、残りが0秒になったらそこをダブルクリック
 - WindowsによってPCが保護されましたと出たら詳細情報をクリックしてから、実行ボタンをクリック
 - もし圧縮解凍指定と出たら圧縮ボタンをクリック
 - エクスプローラーを開いて、「ダウンロード」をクリックして「CStyleTJ3B_V190706.exe」があればOK
 
-![ダウンロードされたTJ3B](images\installer.png)
+![ダウンロードされたTJ3B](image/installer.png)
 
 - ドキュメントを開いて、CStyleTj3B_V190706をダブルクリック
 - その中のCStyleTJ3Bをダブルクリックし、C-Style for TJ3B V190706.msiをダブルクリック
 
-![インストールの画像](images\installing.png)
+![インストールの画像](image/installing.png)
 
 - 「次へ」を3度クリック
 - 「インストール」をクリック
