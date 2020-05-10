@@ -2,6 +2,7 @@
 
 1. ブラウザを開き、「TJ3B ダウンロード」と検索し、「各種資料ダウンロード」を開く。([このリンク](http://www.daisendenshi.com/download/#robot_kit)を開いてもよい。)
 1. 「ロボットプログラミングキット TJ3B」を探し、「Latest プログラミングソフトC-Style Ver.数字の列」と書いてある部分をクリックする
+
 ![TJ3Bのダウンロードの場所](image/download_website.png)
 
 1. 下にダウンロードの表示が出るので、残りが0秒になったらそこをダブルクリック
