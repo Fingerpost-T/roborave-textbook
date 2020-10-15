@@ -6,24 +6,55 @@
 ![TJ3Bのダウンロードの場所](image/download_website.png)
 
 - 下にダウンロードの表示が出るので、残りが0秒になったらそこをダブルクリック
-- WindowsによってPCが保護されましたと出たら詳細情報をクリックしてから、実行ボタンをクリック
-- もし圧縮解凍指定と出たら圧縮ボタンをクリック
+
+![Chromeでのダウンロード画面](image/donwloading_chrome.png)
+
+![Firefoxでのダウンロード画面](image/downloading_firefox.png)
+
+- 下の写真のようにWindowsによってPCが保護されましたと出たら詳細情報をクリックしてから、実行ボタンをクリック
+
+![詳細情報をクリック](image/windows_secure_display.png)
+
+![実行ボタンをクリック](image/windows_secure_display2.png)
+
+- 「CStyleTj3B_V数字.exe」をダブルクリック
 
 ![ダウンロードされたTJ3B](image/installer.png)
 
-- ドキュメントを開いて、「CStyleTj3B_V数字の列」をダブルクリック
-- その中のCStyleTJ3Bをダブルクリックし、C-Style for TJ3B V数字の列.msiをダブルクリック
+- 「圧縮解除」をクリック
 
-![インストールの画像](image/installing.png)
+![圧縮解除](image/extract.png)
 
-- 「次へ」を3度クリック
-- 「インストール」をクリック
-- 「完了」をクリック
+- 「圧縮解除が完了しました。(100%)」と表示されたら、ドキュメントを開いて、「CStyleTj3B_V数字の列」をダブルクリック
 
-# 修正が必要なところ
- * markdownには、URLを記載する文法があります。 [例えば、こんなかんじ](https://www.google.com)。これを使ってください
- * 「」と検索し、～を開くか、[このリンク]()を開いてください。と書いたほうがいいと思う。
- ** ただし、文章が長くなりすぎる場合は、2つにわけたほうがよい
- * 要所要所で画像を入れたほうがよい。テキストを読む人は、今の状態で正しいのか不安になる。
- * クイックアクセスに、ダウンロードがない可能性もあるから、PCをクリックしてダウンロードを選んだほうが良い
+![圧縮解除が完了しました](image/extract_complelte.png)
 
+![ドキュメントの画像](image/TJ3B_document.png)
+
+
+- 「CStyleSetup.exe」をダブルクリックする
+
+![CStyleSetup.exe](image/CStyleSetup.png)
+
+- 「Driver Install」をクリックし、「次へ」をクリックする。
+
+![Driver Install](image/Driver_install.png)
+
+- 「完了」ボタンが出てきたら、「完了」ボタンをクリックする
+
+![Driver Complete](image/driver_complete.png)
+
+- 「C-Style Install」をクリックし、下のようにクリックする。
+    - 「次へ」を3度クリック
+    - 「インストール」をクリック
+    - 「完了」をクリック
+
+![インストールの画像](image/CStyle_install_all.jpg)
+
+- デスクトップに「CStyle for TJ3B」があるか確認する。
+
+![デスクトップ](image/install_complete.png)
+
+- あるなら、インストール終了!
+
+## インストール準備は終わりです。お疲れさまでした。
